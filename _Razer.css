@@ -21,7 +21,7 @@
 .logo{
     height: 50px;
     width: 100px;
-    background-image: url("RazerLogo.jpg");
+    background-image: url("RazerLogo.webp");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -75,7 +75,7 @@
     height: 495px;
     width: 100%;
     background-color: #141414;
-    background-image: url("R1.jpg");
+    background-image: url("R1.webp");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -111,7 +111,7 @@
     height: 495px;
     width: 100%;
     background-color: #141414;
-    background-image: url("r2.jpg");
+    background-image: url("r2.webp");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -146,7 +146,7 @@
     height: 495px;
     width: 100%;
     background-color: #141414;
-    background-image: url("r3.jpg");
+    background-image: url("r3.webp");
     background-size: contain;
     background-repeat: no-repeat;
 
@@ -206,27 +206,27 @@
     background-repeat: no-repeat;
 }
 .frame1{
-    background-image: url("rr1.jpg");
+    background-image: url("rr1.webp");
 }
 
 .frame2{
-    background-image: url("rr2.jpg"); 
+    background-image: url("rr2.webp"); 
 }
 
 .frame3{
-    background-image: url("rr3.jpg"); 
+    background-image: url("rr3.webp"); 
 }
 
 .frame4{
-    background-image: url("rr4.jpg"); 
+    background-image: url("rr4.webp"); 
 }
 
 .frame5{
-    background-image: url("_RR5.JPG");
+    background-image: url("_RR5.webp");
 }
 
 .frame6{
-    background-image: url("_RR6.JPG");
+    background-image: url("_RR6.webp");
 }
 .frame-section2{
     height: 410px;
