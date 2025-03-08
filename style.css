@@ -64,7 +64,8 @@
     width: 100%;
     background-color: #3b3b3b;
     color: white;
-    font-size: 17px;
+    font-size: 19px;
+    font-weight: lighter;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -290,7 +291,7 @@ ul a{
 }
 
 .foot-panel a:hover{
-    text-decoration: underline;
+    color: white;
 }
 
 .foot-panel p:hover{
@@ -331,7 +332,4 @@ ul a{
 .location p:hover{
     text-decoration: underline;
     cursor: pointer;
-}
-
-
-
+} 
